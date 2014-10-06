@@ -1,0 +1,12 @@
+C:\Users\yuan\Source\Workspaces\MyLibraryProject\MyLibrary\MyLibrary\bin\Debug\MyLibrary.exe
+C:\Users\yuan\Source\Workspaces\MyLibraryProject\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\yuan\Source\Workspaces\MyLibraryProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\yuan\Source\Workspaces\MyLibraryProject\MyLibrary\MyLibrary\obj\Debug\MainWindow.baml
+C:\Users\yuan\Source\Workspaces\MyLibraryProject\MyLibrary\MyLibrary\obj\Debug\MainWindow.g.cs
+C:\Users\yuan\Source\Workspaces\MyLibraryProject\MyLibrary\MyLibrary\obj\Debug\App.g.cs
+C:\Users\yuan\Source\Workspaces\MyLibraryProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary_MarkupCompile.cache
+C:\Users\yuan\Source\Workspaces\MyLibraryProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.g.resources
+C:\Users\yuan\Source\Workspaces\MyLibraryProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.Properties.Resources.resources
+C:\Users\yuan\Source\Workspaces\MyLibraryProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.GenerateResource.Cache
+C:\Users\yuan\Source\Workspaces\MyLibraryProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.exe
+C:\Users\yuan\Source\Workspaces\MyLibraryProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb

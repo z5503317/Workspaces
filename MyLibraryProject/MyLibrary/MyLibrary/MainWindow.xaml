@@ -8,10 +8,19 @@
             <RowDefinition Height="57*"/>
             <RowDefinition Height="608*"/>
         </Grid.RowDefinitions>
-        <DockPanel LastChildFill="False" >
-            <Menu>
-                <MenuItem Header="MenuItem"/>
-                <MenuItem Header="MenuItem"/>
+        <DockPanel Name="panel">
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="_File">
+                    <MenuItem Header="_Open" ></MenuItem>
+                    <MenuItem Header="_Save" ></MenuItem>
+                    <Separator/>
+                    <MenuItem Header="E_xit" />
+                </MenuItem>
+                <MenuItem Header="_Help">
+                    <MenuItem Header="_Content"></MenuItem>
+                    <Separator/>
+                    <MenuItem Header="_About"/>
+                </MenuItem>
             </Menu>
         </DockPanel>
     </Grid>
